@@ -18,7 +18,7 @@ byte-unit = { version = "5.1.4", default-features = false, features = [
     "byte",
     "serde",
 ] }
-tokio = { version = "1.38.0", features = ["sync"] }
+tokio = { version = "1.38.2", features = ["sync"] }
 
 [target.'cfg(any(target_os = "linux", target_os = "macos"))'.dependencies]
 libproc = "0.14.8"
