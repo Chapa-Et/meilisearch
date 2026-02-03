@@ -50,7 +50,7 @@ index-scheduler = { path = "../index-scheduler" }
 indexmap = { version = "2.2.6", features = ["serde"] }
 is-terminal = "0.4.12"
 itertools = "0.13.0"
-jsonwebtoken = "9.3.0"
+jsonwebtoken = "10.3.0"
 lazy_static = "1.5.0"
 meilisearch-auth = { path = "../meilisearch-auth" }
 meilisearch-types = { path = "../meilisearch-types" }
