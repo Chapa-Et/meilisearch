@@ -86,7 +86,7 @@ sysinfo = "0.30.13"
 tar = "0.4.41"
 tempfile = "3.10.1"
 thiserror = "1.0.61"
-time = { version = "0.3.36", features = [
+time = { version = "0.3.47", features = [
     "serde-well-known",
     "formatting",
     "parsing",
