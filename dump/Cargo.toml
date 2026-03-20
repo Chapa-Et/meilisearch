@@ -20,7 +20,7 @@ regex = "1.10.5"
 roaring = { version = "0.10.6", features = ["serde"] }
 serde = { version = "1.0.204", features = ["derive"] }
 serde_json = { version = "1.0.120", features = ["preserve_order"] }
-tar = "0.4.41"
+tar = "0.4.45"
 tempfile = "3.10.1"
 thiserror = "1.0.61"
 time = { version = "0.3.36", features = ["serde-well-known", "formatting", "parsing", "macros"] }

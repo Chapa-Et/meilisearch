@@ -83,7 +83,7 @@ siphasher = "1.0.1"
 slice-group-by = "0.3.1"
 static-files = { version = "0.2.4", optional = true }
 sysinfo = "0.30.13"
-tar = "0.4.41"
+tar = "0.4.45"
 tempfile = "3.10.1"
 thiserror = "1.0.61"
 time = { version = "0.3.36", features = [
