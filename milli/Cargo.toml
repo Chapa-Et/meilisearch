@@ -81,7 +81,7 @@ tiktoken-rs = "0.5.9"
 liquid = "0.26.6"
 rhai = { version = "1.19.0", features = ["serde", "no_module", "no_custom_syntax", "no_time", "sync"] }
 arroy = "0.4.0"
-rand = "0.8.5"
+rand = "0.9.3"
 tracing = "0.1.40"
 ureq = { version = "2.10.0", features = ["json"] }
 url = "2.5.2"
@@ -94,7 +94,7 @@ insta = "1.39.0"
 maplit = "1.0.2"
 md5 = "0.7.0"
 meili-snap = { path = "../meili-snap" }
-rand = { version = "0.8.5", features = ["small_rng"] }
+rand = { version = "0.9.3", features = ["small_rng"] }
 
 [features]
 all-tokenizations = [

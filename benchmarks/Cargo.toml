@@ -19,7 +19,7 @@ serde_json = { version = "1.0.120", features = ["preserve_order"] }
 
 [dev-dependencies]
 criterion = { version = "0.5.1", features = ["html_reports"] }
-rand = "0.8.5"
+rand = "0.9.3"
 rand_chacha = "0.3.1"
 roaring = "0.10.6"
 
